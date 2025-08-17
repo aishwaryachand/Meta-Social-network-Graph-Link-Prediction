@@ -1,6 +1,7 @@
 # Meta Social Network — Graph Link Prediction
 
 Predict missing directed edges (“who should follow whom?”) to power **People You May Know**–style recommendations at scale.
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/326668ac-64d2-4bde-8c60-03b4bf12cdce" />
 
 ---
 
